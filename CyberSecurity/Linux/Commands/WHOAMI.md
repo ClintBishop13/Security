@@ -1,1 +1,0 @@
-whoami - print effective userid
